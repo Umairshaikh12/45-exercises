@@ -1,0 +1,21 @@
+/*Adding Comments: Choose two of the programs you’ve written,
+ and add at least one comment to each. If you don’t have anything
+ specific to write because your programs are too simple at this point,
+ just add your name and the current date at the top of each program file. 
+ Then write one sentence describing what the program does.*/
+
+ // This program is written by Umair
+ // Date 4/14/2024
+ // This program will simply tell you about the ahmed's marks which he got in maths.
+
+ let studentName = "Ahmed";
+ let message = "Got hundred marks in maths";
+ console.log(`${studentName} ${message}`);
+
+
+
+
+
+
+
+
